@@ -1,0 +1,10 @@
+{
+  "extends": ["tslint:recommended"],
+  "jsRules": {},
+  "rules": {
+    "semicolon": [true, "never"],
+    "trailing-comma": [true, { "multiline": "never", "singleline": "never" }],
+    "arrow-parens": false
+  },
+  "rulesDirectory": []
+}
